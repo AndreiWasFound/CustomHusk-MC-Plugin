@@ -1,0 +1,8 @@
+main: me.andreiwasfound.customhusk.Main
+name: CustomHusk
+version: 1.0
+author: AndreiWasFound
+api-version: 1.15
+
+commands:
+  SpawnHusk:
